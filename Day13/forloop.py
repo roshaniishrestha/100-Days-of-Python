@@ -2,7 +2,7 @@ x = "roshani"
 for i in x:
     print (i, end=", ")
     
-colors = ["\n", "red", "blue", "pink"]
+colors = ["\n", input("enter a color : "), "red", "blue", "pink"]
 for color in colors:
     print(color)
     for i in color:

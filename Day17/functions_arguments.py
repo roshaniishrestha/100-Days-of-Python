@@ -18,3 +18,4 @@ def average(*numbers):
 c = average(1,2,3) # c is calling function which gets the value from return 
 print(c)
 print(type(c))
+
